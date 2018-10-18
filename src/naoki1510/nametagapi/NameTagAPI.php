@@ -3,7 +3,8 @@
 namespace naoki1510\nametagapi;
 
 use pocketmine\plugin\PluginBase;
-use pocketmine\event\Listener
+use pocketmine\event\Listener;
+use pocketmine\plugin\
 
 class NameTagAPI extends PluginBase implements Listener{
     /** @var NameTagAPI */
